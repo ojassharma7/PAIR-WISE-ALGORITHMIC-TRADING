@@ -110,3 +110,6 @@ Sharpe Ratio: 0.72
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/d60dd86f-0c6f-4d30-a165-b7a48dd89ab3" />
 
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/2c5f13c6-151d-4031-9b16-6d6ed1ec53e2" />
+
+
